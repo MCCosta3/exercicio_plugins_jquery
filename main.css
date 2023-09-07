@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: block;
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto;
+  font-family: prompt;
+  background-color: rgb(222, 222, 248);
+}
+
+h1 {
+  color: rgb(29, 49, 232);
+}
+
+form {
+  max-width: 360px;
+  padding: 16px 0;
+  display: block;
+  margin-bottom: 16px;
+  color: rgb(29, 49, 232);
+}
+
+form label {
+  display: block;
+  margin-top: 8px;
+}
+
+form button {
+  width: 160px;
+  padding: 8px;
+  background-color: #e9ed95;
+  margin-top: 8px;
+  color: rgb(47, 65, 233);
+  font-size: larger;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  font-size: larger;
+}
